@@ -1,0 +1,16 @@
+C:\Users\bunt\Desktop\DotNet\WordGames\WorldPuzzle\obj\Debug\net5.0\WorldPuzzle.csproj.AssemblyReference.cache
+C:\Users\bunt\Desktop\DotNet\WordGames\WorldPuzzle\obj\Debug\net5.0\WorldPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bunt\Desktop\DotNet\WordGames\WorldPuzzle\obj\Debug\net5.0\WorldPuzzle.AssemblyInfoInputs.cache
+C:\Users\bunt\Desktop\DotNet\WordGames\WorldPuzzle\obj\Debug\net5.0\WorldPuzzle.AssemblyInfo.cs
+C:\Users\bunt\Desktop\DotNet\WordGames\WorldPuzzle\obj\Debug\net5.0\WorldPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\bunt\Desktop\DotNet\WordGames\WorldPuzzle\bin\Debug\net5.0\WorldPuzzle.exe
+C:\Users\bunt\Desktop\DotNet\WordGames\WorldPuzzle\bin\Debug\net5.0\WorldPuzzle.deps.json
+C:\Users\bunt\Desktop\DotNet\WordGames\WorldPuzzle\bin\Debug\net5.0\WorldPuzzle.runtimeconfig.json
+C:\Users\bunt\Desktop\DotNet\WordGames\WorldPuzzle\bin\Debug\net5.0\WorldPuzzle.runtimeconfig.dev.json
+C:\Users\bunt\Desktop\DotNet\WordGames\WorldPuzzle\bin\Debug\net5.0\WorldPuzzle.dll
+C:\Users\bunt\Desktop\DotNet\WordGames\WorldPuzzle\bin\Debug\net5.0\ref\WorldPuzzle.dll
+C:\Users\bunt\Desktop\DotNet\WordGames\WorldPuzzle\bin\Debug\net5.0\WorldPuzzle.pdb
+C:\Users\bunt\Desktop\DotNet\WordGames\WorldPuzzle\obj\Debug\net5.0\WorldPuzzle.dll
+C:\Users\bunt\Desktop\DotNet\WordGames\WorldPuzzle\obj\Debug\net5.0\ref\WorldPuzzle.dll
+C:\Users\bunt\Desktop\DotNet\WordGames\WorldPuzzle\obj\Debug\net5.0\WorldPuzzle.pdb
+C:\Users\bunt\Desktop\DotNet\WordGames\WorldPuzzle\obj\Debug\net5.0\WorldPuzzle.genruntimeconfig.cache
